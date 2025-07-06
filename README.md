@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer and educator from Indonesia 🇮🇩</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=puguhsw&label=Profile%20views&color=0e75b6&style=flat" alt="puguhsw" />
+  <img src="https://komarev.com/ghpvc/?username=puguhsw&label=Profile%20views&color=0e75b6&style=flat" alt="Puguh1244" />
 </p>
 
 - 🌱 I’m currently learning **AI Integration, Python, and Full-Stack Web Development**
