@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=puguhsw&label=Profile%20views&color=0e75b6&style=flat" alt="Puguh1244" />
 </p>
 
-- 🌱 I’m currently learning **AI Integration, Python, and Full-Stack Web Development**
+- 🌱 I’m currently learning **AI Integration, Python, and Loving You 4ever**
 - 👨‍🏫 I love teaching coding to students and building educational tools
 - 👨‍💻 All of my projects are available at [https://github.com/puguhsw](https://github.com/puguh1244)
 - 📫 How to reach me: **puguhsetya111222333@gmail.com**
