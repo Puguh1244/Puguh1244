@@ -34,6 +34,6 @@
 ---
 
 ### 🤝 Let’s Connect!
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/puguhsw1244)
-- Instagram: [@yourusername](https://instagram.com/psw1244_)
+- LinkedIn: [linkedin.com/in/puguhsw1244](https://linkedin.com/in/puguhsw1244)
+- Instagram: [@psw1244_](https://instagram.com/psw1244_)
 
